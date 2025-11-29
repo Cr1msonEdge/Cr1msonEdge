@@ -51,11 +51,9 @@ Bachelor's Degree in Applied Mathematics, Saint Petersburg State University (Pro
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="VSCode" width="135" />
 </p>
 
-## 📊 Github Stats
-<a href='https://github.com/Cr1msonEdge'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1msonEdge&hide=jupyter%20notebook,css,html,typescript,scss,cuda,c%2B%2B&layout=compact&theme=synthwave" width="325"/>
-</a>
-<a href='https://github.com/Cr1msonEdge'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cr1msonEdge&show_icons=true&hide_border=true&theme=synthwave" alt="Cr1msonEdge GitHub Stats" width="425"/>
-</a>
-
+## 📈 Competitions
+<p>
+  <a href='https://leetcode.com/Cr1msonEdge/'>
+    <img src="https://leetcard.jacoblin.cool/Cr1msonEdge" width="370" />
+  </a>
+</p>
