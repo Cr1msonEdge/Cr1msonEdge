@@ -2,7 +2,7 @@
 
 ## 📝 A little bit about me:
 
-My name is Minh Nhan Do. I study as a software engineer. In my free time, I study computer vision, in particular image segmentation, participate in Kaggle competitions and master new tools in ML and DL. I read articles to look for inspiration to solve new problems.
+My name is Minh Nhan Do. I study Data Science. In my free time, I practice on Kaggle, constantly learning new DS tools: I've studied the basics of A/B testing and automation of ML processes using n8n. I read articles to look for inspiration to solve new problems.
 
 ## Contact me
 <p>
