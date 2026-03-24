@@ -1,8 +1,10 @@
-## Hi! I'm Nhan!
+## Hi! I'm Nickolay!
 
 ## 📝 A little bit about me:
 
-My name is Minh Nhan Do. I study Data Science. In my free time, I practice on Kaggle, constantly learning new DS tools: I've studied the basics of A/B testing and automation of ML processes using n8n. I read articles to look for inspiration to solve new problems.
+My name is Nickolay Do. I am Data Scientist with experience in OCR development and working with VLM.
+I work with the full DS pipeline, from data analysis to the integration of solutions in the service.
+I read articles to look for inspiration to solve new problems.
 
 ## Contact me
 <p>
